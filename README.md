@@ -3,7 +3,7 @@
 Firearm background check trends were analyzed using datasets from the FBI's National Instant Criminal Background Check System (NICS) and US Census. This project focuses on going through the entire data analysis process from posing questions to sharing findings.
 
 ## Datasets
-The FBI Gun data can be found in this [BuzzFeed News GitHub repository](https://github.com/BuzzFeedNews/nics-firearm-background-checks) and the US Census dataset can be found on the [census website](https://data.census.gov/cedsci/). Both datasets are included in this repo titled 'gun_data.xlsx' and 'census_data.csv' respectively. 
+FBI Gun data was retrieved from this [BuzzFeed News GitHub repository](https://github.com/BuzzFeedNews/nics-firearm-background-checks). The US Census data can be found on the [census website](https://data.census.gov/cedsci/). Both datasets are included in this repo titled 'gun_data.xlsx' and 'census_data.csv' respectively. 
 
 ## Software
 The following was used to build this analysis: 
